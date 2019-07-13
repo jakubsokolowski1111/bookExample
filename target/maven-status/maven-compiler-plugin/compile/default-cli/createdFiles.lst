@@ -1,0 +1,9 @@
+com\js\book\BookFactory.class
+com\js\book\CriminalBook.class
+com\js\authentication\AdminAuth.class
+com\js\servlet\AddBook.class
+com\js\book\Book.class
+com\js\book\BooksTypes.class
+com\js\servlet\Logout.class
+com\js\servlet\BookListPrinter.class
+com\js\book\AdventureBook.class
